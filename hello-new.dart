@@ -8,3 +8,7 @@ void main() {
 void sum() {
   print('Next');
 }
+
+void sub() {
+  print('new');
+}
